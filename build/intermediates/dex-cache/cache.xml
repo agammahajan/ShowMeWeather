@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="d2953a624e79660c5de9cb5f94df96f7c7a52ca8">
+        <dex dex="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c92756516a74ed6ae5442fbe1e673a399296da5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f33a7c6e380539d97857913b8da4abd596f50bfc">
+        <dex dex="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fc9d8a6c6bbb4b1c25f655b241c2ac709ba8003/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agammahajan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha5/constraint-layout-solver-1.0.0-alpha5.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="73c7b3e257448abfb473f8833b05e7e055cb3fd9">
+        <dex dex="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha5_adeb21b48a50bae75c6cd7c2aa48e45a74e36d4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_d8af3e79d10595e96fc6d5666a6ec709e453e2af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_5424aea9c85169b868a76dd0e1f4a30bd2e807e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_76503a8c50cf0bd6c79bcbc3f81e593d72e8a1f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_aecaac39c9e6e52fe87e9a0bcf388f42f39d41b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha5/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="e9c2f03f5e8a91877d3b6e3d72881680ac0fbc24">
+        <dex dex="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha5_25b28619844382d40b9122364ae4e08ed438bb0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agammahajan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_969c9f0e2248e56ca83188a6080f0d0c2e8b4b75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/agammahajan/AndroidStudioProjects/ShowMeWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_7ffb109d0980794f83140935b1951ee37a8be585/classes.dex" />
+    </item>
+
+</items>

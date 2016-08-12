@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShowMeWeather</string>
+    <string-array name="Cities">
+        <item>Bangalore</item>
+        <item>New Delhi</item>
+        <item>Hyderabad</item>
+        <item>Jalandhar</item>
+        <item>Gurgaon</item>
+        <item>Kashmir</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+    </string-array>
+</resources>
